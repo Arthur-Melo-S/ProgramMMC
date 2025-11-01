@@ -5,9 +5,10 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         System.out.println("|=========== CALCULO DO MMC ==========|");
         System.out.println("|=====================================|");
-        System.out.println("Digite o primeiro numero:");
+        System.out.print("Digite o primeiro numero: ");
         int numero1 = sc.nextInt();
-        System.out.println("Digite o segundo numero:");
+        System.out.println();
+        System.out.print("Digite o segundo numero: ");
         int numero2 = sc.nextInt();
 
 
